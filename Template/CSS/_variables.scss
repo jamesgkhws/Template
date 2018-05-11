@@ -1,0 +1,41 @@
+// Colour scheme
+$teal: #395e6f;
+$teal-transparent: rgba(57, 94, 111, 0.8);
+$grey: #e5ecef;
+$light-grey: #e6e6e5;
+$light-grey-2: #e5ecef;
+$dark-grey: #535757;
+$yellow: #faed36;
+$blue: #037fc3;
+
+// Carousel
+$carouselHeight: 200px;
+
+//Widths and Heights
+$height: 600px;
+
+// Margins
+$section-margin: 100px;
+$collapse-margin: 20px 0;
+
+//Paddings
+$menu-padding: 60px;
+$section-padding: 20px;
+$section-collapse-padding: 0 20px;
+$collapse-padding: 0 50px;
+$collapse-padding-2: 20px 50px;
+$carousel-padding: 40px;
+
+
+// Transitions 
+$slow-transition: all ease 0.8s;
+
+// Columns
+$gutter: 40px;
+
+// Responsive
+$breakPointOne: 1024px; /*Break Point One */
+$breakPointTwo: 860px; /*Break Point Two */
+$breakPointThird: 768px; /*Break Point Three */
+$breakPointFour: 560px; /*Break Point Four */
+$breakPointFifth: 480px; /*Break Point Five */
